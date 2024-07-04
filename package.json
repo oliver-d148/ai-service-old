@@ -2,7 +2,7 @@
     "name": "capaiservice",
     "version": "1.0.0",
     "description": "CAP AI Service",
-    "repository": "<Add your repository here>",
+    "repository": "https://github.com/oliver-d148/cap-ai-service",
     "license": "UNLICENSED",
     "private": true,
     "dependencies": {
